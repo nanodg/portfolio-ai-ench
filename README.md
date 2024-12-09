@@ -58,12 +58,12 @@ src/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/nanodg/portfolio-ai-ench.git
 ```
 
 2. Install dependencies
 ```bash
-cd portfolio
+cd portfolio-ai-ench
 npm install
 ```
 
@@ -84,10 +84,5 @@ This project is open-source and available under the MIT License.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/portfolio/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/nanodg/portfolio-ai-ench/issues).
 
-## 📞 Contact
-
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
