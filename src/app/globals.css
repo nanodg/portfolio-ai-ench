@@ -1,0 +1,11 @@
+@media print {
+  .print\:hidden {
+    display: none !important;
+  }
+  
+  .print\:shadow-none {
+    box-shadow: none !important;
+  }
+  
+  /* Add other print-specific styles as needed */
+} 

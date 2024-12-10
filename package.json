@@ -13,6 +13,7 @@
     "@heroicons/react": "^2.2.0",
     "@radix-ui/react-avatar": "^1.1.1",
     "@radix-ui/react-hover-card": "^1.1.2",
+    "@radix-ui/react-separator": "^1.1.0",
     "@radix-ui/react-slot": "^1.1.0",
     "@radix-ui/react-toast": "^1.2.2",
     "@shadcn/ui": "^0.0.4",
@@ -23,6 +24,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.0.2",
+    "recharts": "^2.14.1",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
@@ -43,5 +45,6 @@
     "typescript": "~5.6.2",
     "typescript-eslint": "^8.15.0",
     "vite": "^6.0.1"
-  }
+  },
+  "proxy": "https://script.google.com"
 }

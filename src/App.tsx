@@ -4,6 +4,7 @@ import Home from './components/home/Home'
 import About from './components/about/About'
 import Projects from './components/projects/Projects'
 import Contact from './components/contact/Contact'
+import InteractiveResume from './components/resume/InteractiveResume'
 import Footer from './components/layout/Footer'
 import { Toaster } from "@/components/ui/toaster"
 
@@ -17,6 +18,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
+            <Route path="/resume" element={<InteractiveResume />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>

@@ -1,11 +1,11 @@
 import { cn } from "@/lib/utils"
-import { Github, Linkedin, Twitter } from 'lucide-react'
+import { Github, Linkedin, Mail } from 'lucide-react'
 
 const Footer = () => {
   const socialLinks = [
     { name: 'GitHub', url: 'https://github.com/yourusername', icon: Github },
     { name: 'LinkedIn', url: 'https://linkedin.com/in/yourusername', icon: Linkedin },
-    { name: 'Twitter', url: 'https://twitter.com/yourusername', icon: Twitter },
+    { name: 'Email', url: 'https://twitter.com/yourusername', icon: Mail },
   ];
 
   return (
